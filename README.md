@@ -1,4 +1,4 @@
-<h1>Projet programmation système groupe </h1>
+<h1>Projet programmation système groupe 1 </h1>
 <h3>Membre du groupe </h3>
 <ul>
     <li>Toussi Manoel </li>
