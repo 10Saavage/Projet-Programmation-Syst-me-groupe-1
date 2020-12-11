@@ -1,0 +1,13 @@
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\obj\Debug\Vue.csprojAssemblyReference.cache
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\obj\Debug\Vue.csproj.GenerateResource.cache
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\bin\Debug\Controller.dll
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\bin\Debug\Controller.pdb
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\obj\Debug\Vue.csproj.CopyComplete
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vue1.resources
