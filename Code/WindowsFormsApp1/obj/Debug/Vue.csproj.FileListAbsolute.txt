@@ -34,3 +34,16 @@ C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\WindowsFormsApp1\obj\D
 C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\WindowsFormsApp1\obj\Debug\Vue.csproj.CopyComplete
 C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\WindowsFormsApp1\obj\Debug\Vue.exe
 C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\WindowsFormsApp1\obj\Debug\Vue.pdb
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\bin\Debug\Vue.exe.config
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\bin\Debug\Vue.exe
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\bin\Debug\Vue.pdb
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\bin\Debug\Controller.dll
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\bin\Debug\Controller.pdb
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\obj\Debug\Vue.csprojAssemblyReference.cache
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\obj\Debug\Vue.form.resources
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\obj\Debug\Vue.Properties.Resources.resources
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\obj\Debug\Vue.csproj.GenerateResource.cache
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\obj\Debug\Vue.csproj.CoreCompileInputs.cache
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\obj\Debug\Vue.csproj.CopyComplete
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\obj\Debug\Vue.exe
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\WindowsFormsApp1\obj\Debug\Vue.pdb

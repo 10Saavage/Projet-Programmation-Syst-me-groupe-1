@@ -10,3 +10,9 @@ C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\Controller\obj\Debug\C
 C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
 C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\Controller\obj\Debug\Controller.dll
 C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\Controller\obj\Debug\Controller.pdb
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Controller\bin\Debug\Controller.dll
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Controller\bin\Debug\Controller.pdb
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Controller\obj\Debug\Controller.dll
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Controller\obj\Debug\Controller.pdb
