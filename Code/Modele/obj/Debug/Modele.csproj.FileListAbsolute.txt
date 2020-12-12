@@ -1,0 +1,6 @@
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\bin\Debug\Modele.dll
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\bin\Debug\Modele.pdb
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.dll
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.pdb

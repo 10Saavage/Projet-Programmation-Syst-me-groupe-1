@@ -1,0 +1,12 @@
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Controller\bin\Debug\Controller.dll
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Controller\bin\Debug\Controller.pdb
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Controller\obj\Debug\Controller.dll
+C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Controller\obj\Debug\Controller.pdb
+C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\Controller\bin\Debug\Controller.dll
+C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\Controller\bin\Debug\Controller.pdb
+C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\Controller\obj\Debug\Controller.dll
+C:\Users\daryl\source\repos\Projet-Progra-Restaurant\Prog\Controller\obj\Debug\Controller.pdb
