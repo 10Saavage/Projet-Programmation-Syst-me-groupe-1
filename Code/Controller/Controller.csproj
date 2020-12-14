@@ -41,11 +41,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Carte.cs" />
+    <Compile Include="ChefDeRang.cs" />
+    <Compile Include="Client.cs" />
+    <Compile Include="Comptoir.cs" />
     <Compile Include="Controller.cs" />
+    <Compile Include="Cuisine.cs" />
+    <Compile Include="Divers.cs" />
     <Compile Include="Entites.cs" />
+    <Compile Include="Hall.cs" />
     <Compile Include="Loader.cs" />
+    <Compile Include="MaitreHotel.cs" />
+    <Compile Include="Materiel.cs" />
+    <Compile Include="Nourriture.cs" />
     <Compile Include="Objets.cs" />
     <Compile Include="Personnages.cs" />
+    <Compile Include="Plat.cs" />
+    <Compile Include="Restaurant.cs" />
+    <Compile Include="Salle.cs" />
+    <Compile Include="Serveur.cs" />
+    <Compile Include="Ustensible.cs" />
     <Compile Include="World.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
