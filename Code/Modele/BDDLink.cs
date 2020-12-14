@@ -18,7 +18,7 @@ namespace BDDLink
         private String etape;
         private String test = "Nom_Produits_frais";
 
-        private String ddb = "database=resto; server=localhost; user id=root; pwd=";
+        private String ddb = @"Data Source=TM-GARRINCHA\SQLEXPRESS;Initial Catalog=resto;User ID=Manoel; Password=Azerty11";
         private ArrayList a1 = new ArrayList();
         private ArrayList a2 = new ArrayList();
         List<String> al = new List<String>();
