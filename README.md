@@ -6,4 +6,4 @@
     <li>Kuitche Daryl </li>
     <li>Badienguissa Joress </li>
 </ul>
-<p>Le livrable 1 déposée: Dossier "Premier Livrable" </p>
+<p>Le livrable 1 déposée: Dossier "Dossier Architecture" </p>
