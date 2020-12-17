@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace BDDLink
 {
-    public class CLcad
+    public class cLAD
     {
         private SqlConnection connexion;
         private String command;
@@ -23,7 +23,7 @@ namespace BDDLink
         private ArrayList a2 = new ArrayList();
         List<String> al = new List<String>();
 
-        public CLcad()
+        public cLAD()
         {
             //Console.WriteLine(ddb);
             connexion = new SqlConnection(ddb);
@@ -121,5 +121,12 @@ namespace BDDLink
                 Console.WriteLine("echec");
             }
         }
+
+        public bool connexion_basedonnee()
+        {
+            return true;
+        }
+
+
     }
 }

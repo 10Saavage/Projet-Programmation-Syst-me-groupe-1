@@ -93,5 +93,10 @@ namespace Controller
         {
             return tables.Find(t => t.GetNumTable() == tableId);
         }
+
+        public string TrouverTableRestaurant()
+        {
+            return "Restaurant";
+        }
     } 
 }

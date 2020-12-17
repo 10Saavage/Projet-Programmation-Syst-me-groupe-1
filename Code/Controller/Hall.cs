@@ -30,5 +30,10 @@ namespace Controller
 
             return clients;
         }
+
+        public string créationHall(int a)
+        {
+            return "Hall";
+        }
     }
 }

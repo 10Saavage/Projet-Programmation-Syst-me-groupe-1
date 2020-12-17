@@ -46,6 +46,7 @@
     <Compile Include="Client.cs" />
     <Compile Include="Comptoir.cs" />
     <Compile Include="Controller.cs" />
+    <Compile Include="Core.cs" />
     <Compile Include="Cuisine.cs" />
     <Compile Include="Divers.cs" />
     <Compile Include="Entites.cs" />

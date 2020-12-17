@@ -11,6 +11,7 @@ namespace Controller
     {
         private Entity conteneur;
 
+
         public Objet(Entity conteneur, Loader loader) : base(loader)
         {
             this.conteneur = conteneur;

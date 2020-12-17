@@ -125,5 +125,10 @@ namespace Controller
                 }
             }
         }
+
+        public string DonnePlat(int a)
+        {
+            return "couverts";
+        }
     }
 }

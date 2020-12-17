@@ -275,6 +275,11 @@ namespace Controller
         {
             return (Entity)entities.Find(e => ((Entity)e).id == id);
         }
+
+        public string InstatiationElementWorld(int a)
+        {
+            return "TableEntity";
+        }
     }
 
 }

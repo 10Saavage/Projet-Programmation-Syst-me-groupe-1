@@ -4,3 +4,15 @@ C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.csproj
 C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
 C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.dll
 C:\Users\davea\source\repos\WindowsFormsApp1\Prog\Modele\obj\Debug\Modele.pdb
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\bin\Debug\Modele.dll
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\bin\Debug\Modele.pdb
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\bin\Debug\Vue.exe
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\bin\Debug\Controller.dll
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\bin\Debug\Vue.pdb
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\bin\Debug\Vue.exe.config
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\bin\Debug\Controller.pdb
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\obj\Debug\Modele.csprojAssemblyReference.cache
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\obj\Debug\Modele.csproj.CoreCompileInputs.cache
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\obj\Debug\Modele.csproj.CopyComplete
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\obj\Debug\Modele.dll
+D:\Cours\Semestre5\Bloc Programmation Système\Projet Programmation Système\Code\Modele\obj\Debug\Modele.pdb

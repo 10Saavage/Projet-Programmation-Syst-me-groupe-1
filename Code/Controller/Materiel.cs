@@ -11,6 +11,7 @@ namespace Controller
     {
         private bool propre;
 
+
         public Materiel(Entity conteneur, Loader loader, bool propre = true) : base(conteneur, loader)
         {
             this.propre = propre;
@@ -39,6 +40,11 @@ namespace Controller
         public bool GetProprete()
         {
             return propre;
+        }
+
+        public int postionSalle(int a)
+        {
+            return a;
         }
     }
 }

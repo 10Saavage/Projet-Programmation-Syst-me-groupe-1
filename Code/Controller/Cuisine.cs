@@ -21,5 +21,10 @@ namespace Controller
         {
             Console.WriteLine("erererer");
         }
+
+        public string créationCuisine(int a)
+        {
+            return "Cuisine";
+        }
     }
 }

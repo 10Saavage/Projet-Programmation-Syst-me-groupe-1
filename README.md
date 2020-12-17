@@ -7,3 +7,4 @@
     <li>Badienguissa Joress </li>
 </ul>
 <p>Le livrable 1 déposée: Dossier "Dossier Architecture" </p>
+<p>Les code se trouve dans le dossier "Code" </p>
